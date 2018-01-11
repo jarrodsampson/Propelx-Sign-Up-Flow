@@ -9,32 +9,28 @@ https://www.planlodge.com/propelx/ (Apache Server)
 
 https://propelx.herokuapp.com/ (Heroku Server for Node)
 
-## Insstallation
+## Local Installation
 
-> git clone https://github.com/planlodge/Propelx-Sign-Up-Flow.git
+- git clone https://github.com/planlodge/Propelx-Sign-Up-Flow.git
 
-> cd Propelx-Sign-Up-Flow
+- cd Propelx-Sign-Up-Flow
 
-> npm install
+- npm install
 
-> npm run
+- npm run
 
 ## Description
 
 > Take-Home
 
-![Image](https://github.com/planlodge/soundmix/blob/master/screenshots/screen1.png?raw=true)
+![Image](https://github.com/planlodge/Propelx-Sign-Up-Flow/blob/master/screen1.png?raw=true)
 
-## Updates and News
-
-### Version 1.2.3 Updates
-- API Call Corrections
-- UI Layout fixes
-- Error Handling and 404 page update
-- Slideshow additions and new fonts
+![Image](https://github.com/planlodge/Propelx-Sign-Up-Flow/blob/master/screen2.png?raw=true)
 
 ## Features
 
+- Linkedin API connection working
+- Form Validation
 
 ## License
 
