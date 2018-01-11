@@ -1,0 +1,37 @@
+.survey-title {
+    text-align: left;
+    position: relative;
+    left: -15px;
+}
+
+.survey .btn-group {
+    width: 100%;
+    flex-wrap: nowrap | wrap | wrap-reverse;
+}
+
+.survey .btn-group .btn {
+    flex-grow: 1;
+    display:inline;
+}
+
+.survey .btn-group label {
+    background: white;
+    color: black;
+    height: 50px;
+    border-radius: 5px !important;
+    margin: 10px 10px 10px 10px;
+}
+
+.survey .btn-group label:not(:nth-child(3))
+{
+
+}
+
+.survey .btn-primary.active,
+.survey .btn-primary.active.focus,
+.survey .btn-primary.active:hover,
+.survey .btn-primary:hover
+{
+    background: #F3F3F3;
+    color: #000;
+}

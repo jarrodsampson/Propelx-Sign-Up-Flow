@@ -1,0 +1,54 @@
+.investor .btn-group {
+    width: 100%;
+    display: flex;
+}
+
+.investor .btn-group .btn {
+    flex-grow: 1;
+    min-width:25%;
+    display:inline;
+}
+
+.investor .btn-group label {
+    background: white;
+    color: black;
+    height: 100px;
+    border-radius: 5px !important;
+    margin: 10px 0px 10px 10px;
+}
+
+.investor .btn-group label:not(:nth-child(3))
+{
+    margin-right: 10px;
+}
+
+.investor .btn-primary.active,
+.investor .btn-primary.active.focus,
+.investor .btn-primary.active:hover,
+.investor .btn-primary:hover
+{
+    background: #F3F3F3;
+    color: #000;
+}
+
+.custom-radio div {
+    display:inline;
+}
+
+.well {
+    background: #ECF7FD;
+    border: none;
+}
+
+.well label {
+    text-indent: 15px;
+}
+
+.well p {
+    text-indent: 25px;
+}
+
+span {
+    position: relative;
+    top: 25%;
+}
