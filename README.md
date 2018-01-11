@@ -9,6 +9,16 @@ https://www.planlodge.com/propelx/ (Apache Server)
 
 https://propelx.herokuapp.com/ (Heroku Server for Node)
 
+## Insstallation
+
+> git clone https://github.com/planlodge/Propelx-Sign-Up-Flow.git
+
+> cd Propelx-Sign-Up-Flow
+
+> npm install
+
+> npm run
+
 ## Description
 
 > Take-Home
