@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import Form                 from 'react-validation/build/form'
 import Button               from 'react-validation/build/button'
 import Slider               from 'react-rangeslider'
 import                           'react-rangeslider/lib/index.css'
 
-import                           './index.css';
+import                           './index.css'
 
 export default class Survey extends Component {
 

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import                           './signIn.css';
+import                           './signIn.css'
 import SignUp               from './steps/signUp'
 import InvestorType         from './steps/investorType'
 import Survey               from './steps/survey'

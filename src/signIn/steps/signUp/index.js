@@ -1,11 +1,11 @@
-import React, { Component } from 'react'
-import Form from 'react-validation/build/form'
-import Input from 'react-validation/build/input'
-import Button from 'react-validation/build/button'
+import React, { Component }          from 'react'
+import Form                          from 'react-validation/build/form'
+import Input                         from 'react-validation/build/input'
+import Button                        from 'react-validation/build/button'
 
-import SocialButton from '../../helpers/socialButton'
-import { email, required, password } from '../../helpers/validations';
-import './index.css'
+import SocialButton                  from '../../helpers/socialButton'
+import { email, required, password } from '../../helpers/validations'
+import                                    './index.css'
 
 export default class SignUp extends Component {
 
@@ -44,7 +44,7 @@ export default class SignUp extends Component {
           // API errors checked here
           // timeout to simulate server call
           props.nextStep()
-      }, 3000);
+      }, 3000)
   }
 
   render() {
